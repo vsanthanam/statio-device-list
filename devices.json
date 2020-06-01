@@ -1,0 +1,30 @@
+[
+	{
+		"name": "iPhone 11 Pro",
+		"identifier": "iPhone12,3",
+		"board_identifier":"D421AP",
+		"generic_name_identifier":0,
+		"frequency":2660
+	},
+	{
+		"name": "iPhone 11 Pro Max",
+		"identifier": "iPhone12,5",
+		"board_identifier":"D431AP",
+		"generic_name_identifier":0,
+		"frequency":2660
+	},
+	{
+		"name": "iPhone SE",
+		"identifier": "iPhone12,8",
+		"board_identifier":"D79AP",
+		"generic_name_identifier":0,
+		"frequency":2660
+	},
+	{
+		"name": "iPhone 11",
+		"identifier": "iPhone12,1",
+		"board_identifier":"D79AP",
+		"genericn_name_identifier":0,
+		"frequency":2660
+	}
+]
