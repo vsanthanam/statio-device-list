@@ -46,5 +46,41 @@
 		"name": "A12 Bionic",
 		"part": "APL1W81",
 		"frequency": 2490
+	},
+	{
+		"identifier": "D22AP",
+		"name": "A11 Bionic",
+		"part": "APL1W72",
+		"frequency": 2390
+	},
+	{
+		"identifier": "D221AP",
+		"name": "A11 Bionic",
+		"part": "APL1W72",
+		"frequency": 2390
+	},
+	{
+		"identifier": "D20AP",
+		"name": "A11 Bionic",
+		"part": "APL1W72",
+		"frequency": 2390
+	},
+	{
+		"identifier": "D201AP",
+		"name": "A11 Bionic",
+		"part": "APL1W72",
+		"frequency": 2390
+	},
+	{
+		"identifier": "D20AAP",
+		"name": "A11 Bionic",
+		"part": "APL1W72",
+		"frequency": 2390
+	},
+	{
+		"identifier": "D201AAP",
+		"name": "A11 Bionic",
+		"part": "APL1W72",
+		"frequency": 2390
 	}
 ]

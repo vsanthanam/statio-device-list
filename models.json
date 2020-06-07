@@ -48,6 +48,16 @@
 		"name": "iPhone X",
 		"identifier": "iPhone10,3",
 		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone 8",
+		"identifier": "iPhone10,1",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone 8",
+		"identifier": "iPhone10,4",
+		"generic_identifier": 0
 	}
     
 ]
