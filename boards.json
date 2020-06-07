@@ -142,5 +142,17 @@
 		"name": "A9",
 		"part": "APL1022",
 		"frequency": 1849
+	},
+	{
+		"identifier": "N66AP",
+		"name": "A9",
+		"part": "APL0898",
+		"frequency": 1849
+	},
+	{
+		"identifier": "N66mAP",
+		"name": "A9",
+		"part": "APL1022",
+		"frequency": 1849
 	}
 ]
