@@ -1,0 +1,20 @@
+[
+	{
+		"identifier": "D431AP",
+		"name": "A13 Bionic",
+		"part": "APL1W85",
+		"frequency": 2660
+	},
+	{
+		"identifier": "D421AP",
+		"name": "A13 Bionic",
+		"part": "APL1W85",
+		"frequency": 2660
+	},
+	{
+		"identifier": "N104AP",
+		"name": "A13 Bionic",
+		"part": "APL1W85",
+		"frequency": 2660
+	}
+]
