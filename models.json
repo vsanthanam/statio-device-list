@@ -1,0 +1,53 @@
+[
+	{
+		"name": "iPhone 11 Pro",
+		"identifier": "iPhone12,3",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone 11 Pro Max",
+		"identifier": "iPhone12,5",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone SE",
+		"identifier": "iPhone12,8",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone 11",
+		"identifier": "iPhone12,1",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone Xʀ",
+		"identifier": "iPhone11,8",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone Xs Max",
+		"identifier": "iPhone11,6",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone Xs Max",
+		"identifier": "iPhone11,4",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone Xs",
+		"identifier": "iPhone11,2",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone X",
+		"identifier": "iPhone10,6",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone X",
+		"identifier": "iPhone10,3",
+		"generic_identifier": 0
+	}
+    
+]
