@@ -130,5 +130,17 @@
 		"name": "A10 Fusion",
 		"part": "APL1W24",
 		"frequency": 2340
+	},
+	{
+		"identifier": "N71AP",
+		"name": "A9",
+		"part": "APL0898",
+		"frequency": 1849
+	},
+	{
+		"identifier": "N71mAP",
+		"name": "A9",
+		"part": "APL1022",
+		"frequency": 1849
 	}
 ]

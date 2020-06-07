@@ -88,6 +88,11 @@
 		"name": "iPhone 7 Plus",
 		"identifier": "iPhone9,4",
 		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone 6s",
+		"identifier": "iPhone8,1",
+		"generic_identifier": 0
 	}
     
 ]
