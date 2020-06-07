@@ -68,6 +68,26 @@
 		"name": "iPhone 8 Plus",
 		"identifier": "iPhone10,5",
 		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone 7",
+		"identifier": "iPhone9,1",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone 7",
+		"identifier": "iPhone9,3",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone 7 Plus",
+		"identifier": "iPhone9,2",
+		"generic_identifier": 0
+	},
+	{
+		"name": "iPhone 7 Plus",
+		"identifier": "iPhone9,4",
+		"generic_identifier": 0
 	}
     
 ]

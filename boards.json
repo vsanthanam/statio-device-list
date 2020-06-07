@@ -106,5 +106,29 @@
 		"name": "A11 Bionic",
 		"part": "APL1W72",
 		"frequency": 2390
+	},
+	{
+		"identifier": "D10AP",
+		"name": "A10 Fusion",
+		"part": "APL1W24",
+		"frequency": 2340
+	},
+	{
+		"identifier": "D101AP",
+		"name": "A10 Fusion",
+		"part": "APL1W24",
+		"frequency": 2340
+	},
+	{
+		"identifier": "D11AP",
+		"name": "A10 Fusion",
+		"part": "APL1W24",
+		"frequency": 2340
+	},
+	{
+		"identifier": "D111AP",
+		"name": "A10 Fusion",
+		"part": "APL1W24",
+		"frequency": 2340
 	}
 ]
